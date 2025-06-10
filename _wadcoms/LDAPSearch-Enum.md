@@ -13,7 +13,7 @@ items:
 services:
   - LDAP
 OS:
-  - Linux
+  - Windows
 attack_types:
   - Enumeration
 references:
